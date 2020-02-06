@@ -74,31 +74,31 @@ The Following are excerpts taken from Melody's Mom's letters to her as Melody wa
 
 October 12,1985
 
-    Dear Melody, “You were born today”
+>    Dear Melody, “You were born today”
 
 May 30, 1988 (age 2 1/2)
 
-    “The other day I was frustrated.
-    You are still not potty-trained,
-    and you pooped your pants for the second time that day.
-    ‘Oh, Melody, what am I going to do?
-    You keep pooping your pants, and Daniel won't get weaned.
-    All he does is cry for Mommy, Mommy. What am I going to do?’
-    I just sat down and cried. You looked at me as I said,
-    ‘I just don't know what to do.’
-    Then you knelt down beside a suitcase, put your head on it,
-    folded your hands, closed your eyes, and prayed,
-    ‘God, help me not to poop my pants, and make Danny be good,
-    and help me not to poop my pants no more.’
-    Oh, the faith of a child!”
+>    “The other day I was frustrated.
+>    You are still not potty-trained,
+>    and you pooped your pants for the second time that day.
+>    ‘Oh, Melody, what am I going to do?
+>    You keep pooping your pants, and Daniel won't get weaned.
+>    All he does is cry for Mommy, Mommy. What am I going to do?’
+>    I just sat down and cried. You looked at me as I said,
+>    ‘I just don't know what to do.’
+>    Then you knelt down beside a suitcase, put your head on it,
+>    folded your hands, closed your eyes, and prayed,
+>    ‘God, help me not to poop my pants, and make Danny be good,
+>    and help me not to poop my pants no more.’
+>    Oh, the faith of a child!”
 
 November 24, 1989 (age 4)
 
-    “I said, ‘Melody, where is your home?’ You answered, ‘I live in Washington.’ ‘No, Melody, where is your real home?’ Daddy hoped you'd answer, Dubuque, but you said, ‘Oh, you mean my really, really, real home- that's in heaven!’ What a cutie. I caught you smiling the other day as you thought to yourself. ‘What are you thinking about?’ I questioned. ‘I'm thinking about Jesus,’ was your simple answer, and I knew it was true.”
+>  “I said, ‘Melody, where is your home?’ You answered, ‘I live in Washington.’ ‘No, Melody, where is your real home?’ Daddy hoped you'd answer, Dubuque, but you said, ‘Oh, you mean my really, really, real home- that's in heaven!’ What a cutie. I caught you smiling the other day as you thought to yourself. ‘What are you thinking about?’ I questioned. ‘I'm thinking about Jesus,’ was your simple answer, and I knew it was true.”
 
 November 10, 1990 (age 5)
 
-    “Who am I? to get to be your Mom! Tonight I read the story of Solomon to you. It said ‘When David died, God talked to Solomon one day. “What would you like to have?” God asked him.’ I then stopped the story and asked you what you would answer if God asked you that. After a little thinking, you answered, ‘to be with Him.’ ”
+>  “Who am I? to get to be your Mom! Tonight I read the story of Solomon to you. It said ‘When David died, God talked to Solomon one day. “What would you like to have?” God asked him.’ I then stopped the story and asked you what you would answer if God asked you that. After a little thinking, you answered, ‘to be with Him.’ ”
 
 And that wasn't only the passing faith of a small child, but the ever-growing faith of a 19-year-old who lived her life to share the good news of Jesus Christ. She died from Malaria after a missionary trip to Africa. When we found her journals, one was full of poems and/or songs. The last one in the unfinished notebook was:
 
