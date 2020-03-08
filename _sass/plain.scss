@@ -76,6 +76,8 @@ main {
     }
   }
   .about {
+		border-right: 5px dotted #FF99bb;
+		background: #FFDDDF;
     display: flex;
     height: 100vh;
     padding-bottom: 15vh;
