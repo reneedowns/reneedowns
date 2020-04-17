@@ -1,9 +1,11 @@
 items:
-  - title: Home 
-    url: "/"
+  - title: Home
+    url: /
   - title: About Us
-    url: "/about"
+    url: /about
   - title: Favorites
-    url: "/favorites"
+    url: /favorites
   - title: Tommy's Youtube
     url: http://youtube.com/tnelsond
+  - title: Reece & Harmony's Blog
+    url: https://www.lovemyducks.com
