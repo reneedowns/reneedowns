@@ -40,15 +40,6 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-  navigation:
-    - title: Home 
-      url: "/"
-    - title: About Us
-      url: "/about"
-    - title: Favorites
-      url: "/favorites"
-    - title: Tommy's Youtube
-      url: http://youtube.com/tnelsond
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
