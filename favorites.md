@@ -5,7 +5,7 @@ layout: page
 
 ## This is a list of some of our favorite things
 
-[John G. Lake Ministries!](/assets/jglm.png)
+![John G. Lake Ministries!](/assets/jglm.png)
 
 > [John G. Lake Ministries](http://jglm.org) brings a complete Biblical message of the New Covenant way of life, as originally intended by our Lord, to His people. While the benefits of Jesus’ life, death and resurrection are available to all, John G. Lake Ministries are specifically looking for those who are not satisfied with the “status quo”. We unashamedly bring a revolutionary message to the Body of Christ and the world.
 
