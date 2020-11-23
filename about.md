@@ -1,6 +1,6 @@
 ---
 layout: page
 ---
-![Family Photo](assets/2018.jpg)
+![Family Photo](/assets/digital2020.jpg)
 
 us@morejesuslessme.com
