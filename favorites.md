@@ -1,30 +1,30 @@
 ---
 layout: page
 ---
+# Favorites
 
-Favorites
-========
+## This is a list of some of our favorite things
 
-This is a list of some of our favorite things
------------------
+[John G. Lake Ministries!](/assets/jglm.png)
 
-![Gmrinc](assets/gmr.gif){: width="394" height="124"}
-> <a href="http://gmrinc.org">Global Ministries and Relief</a> reaches the lost and disciples the found and builds the church.
+> [John G. Lake Ministries](http://jglm.org) brings a complete Biblical message of the New Covenant way of life, as originally intended by our Lord, to His people. While the benefits of Jesus’ life, death and resurrection are available to all, John G. Lake Ministries are specifically looking for those who are not satisfied with the “status quo”. We unashamedly bring a revolutionary message to the Body of Christ and the world.
 
 ![Overland Missions](assets/overland.jpg){: width="276" height="253"}
+
 > [Overland Missions](http://overlandmissions.com) is a family we are proud to be a part of.
 
-![JellyTelly](assets/jt.jpg){: width="276" height="184"}
-> [JellyTelly](http://jellytelly.com) is an online destination for families, developed in partnership between Focus on the Family and Phil Vischer's Jellyfish Labs. As a Bible-based alternative to video and gaming sites, JellyTelly provides families with a safe place to learn and play online.
-
 ![Bella](assets/bella.jpg){: width="276" height="400"}
+
 > Bella is a love story that goes beyond romance.
 
 ![The Caine Mutiny](assets/caine.jpg){: width="276" height="389"}
+
 > The Caine Mutiny is a challenging lesson on judging.
 
 ![Pollyanna](assets/polly.jpg){: width="276" height="400"}
+
 > Pollyanna is encouragement to live childlike faith and be glad.
 
 ![Scarlet and the Black](assets/scarlet.jpg){: width="276" height="392"}
+
 > The Scarlet and the Black inspires us to be courageous and loving.
