@@ -1,6 +1,6 @@
 ---
 layout: page
 ---
-![Family Photo](/assets/fb_img_1630738375674.jpg)
+![Family Photo](/assets/family-2024-web.jpg)
 
 us@morejesuslessme.com
